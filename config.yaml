@@ -1,9 +1,9 @@
 credentials:
   usernames:
     admin:
-      email: admin@epg.com
-      name: EPG Admin
-      password: EpgIsmppVis2025!  # This should be hashed in production
+      email: admin@email.com
+      name: Admin
+      password: Password2025!  # This should be hashed in production
 
 cookie:
   expiry_days: 5
