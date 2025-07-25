@@ -1,0 +1,11 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@epg.com
+      name: EPG Admin
+      password: EpgIsmppVis2025!  # This should be hashed in production
+
+cookie:
+  expiry_days: 5
+  key: 123ba9fff6d784eaf29b6d4ea47cc65fd006201d6ef58a22  # Must be string
+  name: survey_dashboard_cookie
